@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'proxima_nova_semibold';
+  src: url("fonts/proximanova-semibold-webfont.eot");
+  src: url("fonts/proximanova-semibold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/proximanova-semibold-webfont.woff") format("woff"), url("fonts/proximanova-semibold-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'proxima_nova_light';
+  src: url("fonts/proximanova-light-webfont.eot");
+  src: url("fonts/proximanova-light-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/proximanova-light-webfont.woff") format("woff"), url("fonts/proximanova-light-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+body {
+  font-family: "proxima_nova_light"; }
+
+div {
+  float: left;
+  width: 242px;
+  height: 225px;
+  word-wrap: break-word; }
+
+h1 {
+  margin-top: 0; }
+
+h3 > b {
+  margin-top: 0;
+  color: #323335; }
+
+h4 {
+  margin-bottom: 10px; }
+
+input {
+  border: none;
+  background-color: #ffa803;
+  height: 35px;
+  width: 100px;
+  color: white;
+  background-image: url(http://www.whistle.com/images/whistle20/icon-cart-white-small.png);
+  background-size: 15px 15px;
+  background-repeat: no-repeat;
+  background-position: 10px 10px; }
+
+span {
+  color: #e7e8e9;
+  text-decoration: line-through; }
+
+.monthly {
+  background-color: #e7e8e9;
+  height: 150px;
+  padding: 13px 85px 13px 25px; }
+
+.prepaid {
+  border-radius: 5px;
+  border: 3px solid #b3b4b6;
+  padding: 15px 90px 15px 15px; }
+
+#lightText {
+  color: #727375; }
+
+/*# sourceMappingURL=mock2html.css.map */
